@@ -6,7 +6,7 @@ git clone https://github.com/selenalee123/To-Do-App/
 
 
 # ☁️ Phone Compatibility  
-this apps works on both IOS and Android
+This app works on both IOS and Android
 
 # To build the app for production, run the following command:
 npm install
